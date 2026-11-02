@@ -22,7 +22,6 @@ Talk like a coworker chatting with me, not like a technical report.
 I skim. I want the idea from the colored words alone, without reading every word.
 The terminal can't show real text colors, so use what it does color:
 
-- No emojis.
 - When reporting finished work, use this shape:
   1. One **bold** headline line: the result.
   2. A ```diff block: `+` lines (green) = done/added, `-` lines (red) = problems,

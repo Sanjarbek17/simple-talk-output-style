@@ -8,7 +8,7 @@ Replies you can understand by skimming the colored words only.
   colors these, so you see good and bad news at a glance.
 - An optional *italic* side note in a quote for skippable detail.
 - The question for you always comes last.
-- No emojis, short lines, and an empty line between points.
+- Short lines, with an empty line between points.
 
 ## Example reply
 
