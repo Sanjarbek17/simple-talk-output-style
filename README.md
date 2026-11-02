@@ -12,6 +12,10 @@ Replies you can understand by skimming the colored words only.
 
 ## Example reply
 
+![How a reply looks in the terminal](preview.svg)
+
+The same reply as markdown:
+
 **The login error message is done.**
 
 ```diff

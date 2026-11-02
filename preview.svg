@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" font-family="Menlo, Monaco, 'SF Mono', Consolas, monospace" font-size="15">
+  <rect width="760" height="300" rx="10" fill="#0d0d0d"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+  <text x="24" y="62" fill="#ffffff" font-weight="bold">● The login error message is done.</text>
+  <text x="44" y="100" fill="#4ade80">+ Login page now shows an error on a wrong password</text>
+  <text x="44" y="124" fill="#4ade80">+ Added a test for the wrong-password case</text>
+  <text x="44" y="148" fill="#4ade80">+ Committed and pushed</text>
+  <text x="44" y="172" fill="#f87171">- One old test broke after the change, fixed it</text>
+  <rect x="44" y="196" width="3" height="22" fill="#6b7280"/>
+  <text x="58" y="212" fill="#9ca3af" font-style="italic">The old test expected an empty page on a wrong password.</text>
+  <text x="44" y="256" fill="#e5e5e5">Should I <tspan font-weight="bold" fill="#ffffff">also lock the account</tspan> after 5 wrong tries?</text>
+</svg>
